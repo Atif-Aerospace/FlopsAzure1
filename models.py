@@ -42,7 +42,7 @@ def FlopsModel(x1, x2):
     # Step 2: execute .exe file
     # =========================
 
-    subprocess.call(["/home/site/wwwroot/flops/xAtif.bat"])
+    #subprocess.call(["/home/site/wwwroot/flops/xAtif.bat"])
 
     # ===================
     # Step 3: get outputs
